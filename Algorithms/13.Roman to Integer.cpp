@@ -1,3 +1,16 @@
+// Source : https://leetcode.com/problems/roman-to-integer
+// Author : InitialH14 a.k.a Hadid
+// Date   : 2024-08-17
+
+/**********************************************************************
+Given a roman numeral, convert it to an integer.
+
+Example:
+Input: s = "III"
+Output: 3
+Explanation: III = 3.
+**********************************************************************/
+
 class Solution {
 public:
     int romanToInt(string s) {
