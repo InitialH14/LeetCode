@@ -11,3 +11,4 @@ This is my solution for LeetCode Challenges
 | 13  |   Roman To Integer    | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/13.Roman%20to%20Integer.cpp)  |    Easy    |
 | 14  | Longest Common Prefix | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/14.Longest-Common-Prefix.cpp) |    Easy    |
 | 20  |   Valid Parentheses   |   [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/20.Valid-Parentheses.cpp)   |    Easy    |
+| 1400 | Construct K Palindrome Strings | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/1400.Construct-K-Pallindrome-Strings.js) | Medium |
