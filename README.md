@@ -1,6 +1,6 @@
-# LeetCode
+# My LeetCode Solutions 💻
 
-This is my solution for LeetCode Challenges
+Welcome to the LeetCode Solutions Repository! 🎉 This repository contains my solutions to various programming problems on the LeetCode platform. Each solution is implemented in multiple programming languages (where possible) with the aim of learning and improving programming skills.
 
 ## Algorithm
 
