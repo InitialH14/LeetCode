@@ -12,4 +12,5 @@ This is my solution for LeetCode Challenges
 | 14  | Longest Common Prefix | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/14.Longest-Common-Prefix.cpp) |    Easy    |
 | 20  |   Valid Parentheses   |   [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/20.Valid-Parentheses.cpp)   |    Easy    |
 | 1400 | Construct K Palindrome Strings | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/1400.Construct-K-Pallindrome-Strings.js) | Medium |
+| 2619 | Array Prototype Last | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/2619.Array-Prototype-Last.js) | Easy |
 | 3223 | Minimum Length of String After Operations | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/3223.Minimum-Length-of-String-After-Operations.js) | Medium |
