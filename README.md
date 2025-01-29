@@ -11,6 +11,7 @@ Welcome to the LeetCode Solutions Repository! 🎉 This repository contains my s
 | 13  |   Roman To Integer    | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/13.Roman%20to%20Integer.cpp)  |    Easy    |
 | 14  | Longest Common Prefix | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/14.Longest-Common-Prefix.cpp) |    Easy    |
 | 20  |   Valid Parentheses   |   [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/20.Valid-Parentheses.cpp)   |    Easy    |
+| 26 | Remove Duplicates from Sorted Array | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/26.Remove-Duplicates-from-Sorted-Array.js) | Easy |
 | 27 | Remove Element | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/27.Remove-Elements.js) | Easy |
 | 88 | Merged Sorted Array | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/88.Merged-Sorted-Array.js) | Easy |
 | 1400 | Construct K Palindrome Strings | [Javascript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Javascript/1400.Construct-K-Pallindrome-Strings.js) | Medium |
