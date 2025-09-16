@@ -4,7 +4,7 @@ Welcome to the LeetCode Solutions Repository! 🎉 This repository contains my s
 
 ## Algorithm
 
-| No  |         Title         |                                              Language                                               | Difficulty |
+| Leetcode No  |         Title         |                                              Language                                               | Difficulty |
 | :-: | :-------------------: | :-------------------------------------------------------------------------------------------------: | :--------: |
 | 01  |        Two Sum        |        [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/01.Two-Sum.cpp)        |    Easy    |
 | 01  |        Two Sum        |       [Typescript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Typescript/1.TwoSum.ts) | Easy    |
