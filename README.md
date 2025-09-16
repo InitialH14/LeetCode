@@ -8,6 +8,7 @@ Welcome to the LeetCode Solutions Repository! 🎉 This repository contains my s
 | :-: | :-------------------: | :-------------------------------------------------------------------------------------------------: | :--------: |
 | 01  |        Two Sum        |        [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/01.Two-Sum.cpp)        |    Easy    |
 | 01  |        Two Sum        |       [Typescript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Typescript/1.TwoSum.ts) | Easy    |
+| 03  |  Longest Substring Without Repeating Characters  |       [Typescript](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/Typescript/3.LongestSubstringWithoutRepeatingCharacters.ts) | Medium |
 | 09  |   Palindrome Number   |   [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/09.Palindrome-Number.cpp)   |    Easy    |
 | 13  |   Roman To Integer    | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/13.Roman%20to%20Integer.cpp)  |    Easy    |
 | 14  | Longest Common Prefix | [C++](https://github.com/InitialH14/LeetCode/blob/main/Algorithms/CPP/14.Longest-Common-Prefix.cpp) |    Easy    |
