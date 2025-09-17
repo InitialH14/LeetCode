@@ -1,3 +1,21 @@
+// My Submission : https://leetcode.com/problems/longest-palindromic-substring/submissions/1773893423
+// Author : InitialH14 a.k.a Hadid
+// Date   : 2025-09-17
+
+/**********************************************************************
+Given a string s, return the longest palindromic substring in s.
+
+Example 1:
+
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+Example 2:
+
+Input: s = "cbbd"
+Output: "bb"
+**********************************************************************/
+
 function longestPalindrome(s: string): string {
     if (s.length == 0) return "";
 
